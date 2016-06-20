@@ -1,0 +1,1876 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduRevGeocodeRecord.scala" timestamp="1464202994074">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="77" column="32" />
+        <mark key="]" line="77" column="31" />
+        <mark key="^" line="77" column="31" />
+        <mark key="." line="77" column="31" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/test/scala/com/xiaomi/lbs/s2/GeometryUtilsTest.scala" timestamp="1463650616948">
+        <mark key="'" line="19" column="3" />
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/http/HttpMaster.scala" timestamp="1466399180106">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduGeocode/BaiduPlaceRequest.scala" timestamp="1464269017349">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/crawler/src/test/scala/com/xiaomi/lbs/crawler/baidu/BaiduGeocode/BaiduPlaceRequestTest.scala" timestamp="1464782001408">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/mi/anti-cheat/src/test/scala/com/xiaomi/anticheat/parse/AppStoreLogParser.scala" timestamp="1464098448193">
+        <mark key="'" line="6" column="1849" />
+        <mark key="[" line="6" column="1853" />
+        <mark key="]" line="6" column="1852" />
+        <mark key="^" line="6" column="1852" />
+        <mark key="." line="6" column="1852" />
+      </file>
+      <file name="$USER_HOME$/playground/scala/twofishes/indexer/src/main/scala/GeocodeRecord.scala" timestamp="1461899163828">
+        <mark key="'" line="53" column="26" />
+        <mark key="[" line="175" column="34" />
+        <mark key="]" line="175" column="33" />
+        <mark key="^" line="175" column="33" />
+        <mark key="." line="175" column="33" />
+      </file>
+      <file name="$USER_HOME$/playground/play/public/stylesheets/main.css" timestamp="1464535697895">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/nginx.conf" timestamp="1458290917793">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/project/plugins.sbt" timestamp="1466412604885">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BsJobDefinitions.scala" timestamp="1464619063978">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="55" column="5" />
+        <mark key="^" line="101" column="43" />
+        <mark key="." line="101" column="43" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/http/ResponseOps.scala" timestamp="1466137674167">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/http/HttpOps.scala" timestamp="1466136940280">
+        <mark key="'" line="32" column="20" />
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/analysis/src/main/scala/com/miui/metok/job/CellExtractJob.scala" timestamp="1460001775748">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="25" />
+        <mark key="^" line="63" column="25" />
+        <mark key="." line="63" column="25" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/OsmGeometry.scala" timestamp="1463468844549">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/playground/scala.js/src/main/scala/tutorial/webapp/App.scala" timestamp="1464432005150">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" timestamp="1466414177386">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="86" column="64" />
+        <mark key="^" line="86" column="64" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/s2/GeometryUtils.scala" timestamp="1462794997464">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="156" column="65" />
+        <mark key="]" line="156" column="57" />
+        <mark key="." line="156" column="57" />
+        <mark key="^" line="156" column="57" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/geospatial/src/main/scala/com/xiaomi/sapphire/geospatial/AdminRegion.scala" timestamp="1466052782665">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="60" column="61" />
+        <mark key="]" line="61" column="20" />
+        <mark key="." line="61" column="20" />
+        <mark key="^" line="61" column="20" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/error/Errors.scala" timestamp="1466137558726">
+        <mark key="'" line="37" column="62" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="5" column="89" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/models/Article.scala" timestamp="1466412174252">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="33" column="62" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/web/app.py" timestamp="1457507797686">
+        <mark key="'" line="62" column="22" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="16" />
+        <mark key="." line="220" column="16" />
+        <mark key="^" line="217" column="26" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/IpJobDefinitions.scala" timestamp="1464668970565">
+        <mark key="'" line="53" column="54" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="97" column="55" />
+        <mark key="^" line="97" column="55" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/geospatial/BusinessDistrict.scala" timestamp="1462267679543">
+        <mark key="'" line="70" column="29" />
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="12" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/geocoder/RevGeocoder.scala" timestamp="1462863524311">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="38" />
+        <mark key="." line="34" column="38" />
+        <mark key="^" line="34" column="38" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/geospatial/src/main/scala/com/xiaomi/sapphire/geospatial/AdminRegion.scala" timestamp="1464782450483">
+        <mark key="'" line="61" column="45" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="113" column="4" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/www/static/scss/_subscribe.scss" timestamp="1457533484389">
+        <mark key="'" line="35" column="29" />
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="29" />
+        <mark key="^" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/geospatial/Transform.scala" timestamp="1461410363927">
+        <mark key="'" line="139" column="30" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/http/HttpClient.scala" timestamp="1466397256037">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/playground/play/app/views/main.scala.html" timestamp="1464526091302">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="63" />
+        <mark key="." line="15" column="63" />
+        <mark key="^" line="15" column="63" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/worksheet.sc" timestamp="1464595027156">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/test/scala/com/miui/ad/geospatial/BusinessDistrictTest.scala" timestamp="1461410376063">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/http/HttpClient.scala" timestamp="1464277110509">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="56" column="33" />
+        <mark key="." line="56" column="33" />
+        <mark key="^" line="56" column="33" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/scaldingJob/scaldingJob.scala" timestamp="1461410409839">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/ServiceActor.scala" timestamp="1464871362785">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/error/ErrorReporter.scala" timestamp="1466137075818">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/geospatial/src/main/scala/com/xiaomi/sapphire/geospatial/Transform.scala" timestamp="1464778612082">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/Jobs.scala" timestamp="1466141407557">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="4" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="40" column="4" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/geoindexer/RevGeoIndexer.scala" timestamp="1462785175159">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="8" />
+        <mark key="^" line="45" column="8" />
+        <mark key="." line="45" column="8" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/web/templates/trajectory.html" timestamp="1457492037541">
+        <mark key="'" line="41" column="17" />
+        <mark key="[" line="216" column="99" />
+        <mark key="]" line="216" column="108" />
+        <mark key="^" line="216" column="108" />
+        <mark key="." line="216" column="108" />
+      </file>
+      <file name="$USER_HOME$/playground/hexo/themes/next/layout/_partials/header.swig" timestamp="1458793506801">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="13" column="77" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/interface/src/main/thrift/miui.thrift" timestamp="1464946036928">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/http/HttpMaster.scala" timestamp="1464277176649">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+      </file>
+      <file name="$USER_HOME$/mi/anti-cheat/src/main/scala/com/xiaomi/anticheat/worksheet.sc" timestamp="1464678627499">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/models/slick/Job.scala" timestamp="1466416388585">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/Scraper.scala" timestamp="1464199601046">
+        <mark key="'" line="14" column="66" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="16" column="42" />
+        <mark key="^" line="16" column="72" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/www/static/scss/style.scss" timestamp="1457688706645">
+        <mark key="'" line="30" column="5" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/package.scala" timestamp="1465971589344">
+        <mark key="'" line="7" column="24" />
+        <mark key="[" line="68" column="14" />
+        <mark key="]" line="68" column="17" />
+        <mark key="." line="68" column="17" />
+        <mark key="^" line="68" column="17" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/akka/pattern/throttle/TimerBasedThrottler.scala" timestamp="1464066307869">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="156" column="114" />
+        <mark key="]" line="156" column="81" />
+        <mark key="^" line="156" column="81" />
+        <mark key="." line="156" column="81" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/src/common/model/base_mongo.js" timestamp="1457839321495">
+        <mark key="'" line="35" column="14" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/www/static/scss/_card.scss" timestamp="1457793427390">
+        <mark key="'" line="34" column="13" />
+        <mark key="[" line="53" column="10" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="54" column="12" />
+      </file>
+      <file name="$USER_HOME$/playground/scala/twofishes/server/src/main/scala/ReverseGeocoderImpl.scala" timestamp="1464158549704">
+        <mark key="'" line="305" column="0" />
+        <mark key="[" line="304" column="63" />
+        <mark key="]" line="304" column="62" />
+        <mark key="^" line="304" column="62" />
+        <mark key="." line="304" column="62" />
+      </file>
+      <file name="$USER_HOME$/playground/hexo/themes/next/source/css/_variables/custom.styl" timestamp="1458818728982">
+        <mark key="'" line="192" column="16" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/build.sbt" timestamp="1466415532864">
+        <mark key="'" line="109" column="9" />
+        <mark key="[" line="101" column="54" />
+        <mark key="]" line="103" column="38" />
+        <mark key="." line="103" column="38" />
+        <mark key="^" line="103" column="38" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/geocoder/ReverseGeocoder.scala" timestamp="1462769651176">
+        <mark key="'" line="61" column="46" />
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="36" column="46" />
+        <mark key="." line="36" column="46" />
+        <mark key="^" line="36" column="46" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/NameSpace.scala" timestamp="1463640753484">
+        <mark key="'" line="61" column="2" />
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="29" />
+        <mark key="^" line="51" column="29" />
+        <mark key="." line="51" column="29" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/ActorLoggingSlf4j.scala" timestamp="1464059916459">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/playground/hexo/themes/next/source/css/_custom/custom.styl" timestamp="1458793457114">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/main.scala" timestamp="1466068591471">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/ScaldingJob.scala" timestamp="1464924138861">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/scaldingJob/RevGeoIndexBuildJob.scala" timestamp="1461646664472">
+        <mark key="'" line="59" column="19" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="59" column="25" />
+        <mark key="^" line="59" column="25" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/pom.xml" timestamp="1464632326297">
+        <mark key="'" line="11" column="29" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/src/blog/controller/session.js" timestamp="1457281279937">
+        <mark key="'" line="94" column="10" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="45" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/web/database/user_address.py" timestamp="1464158437298">
+        <mark key="'" line="166" column="31" />
+        <mark key="[" line="150" column="72" />
+        <mark key="]" line="150" column="48" />
+        <mark key="." line="150" column="48" />
+        <mark key="^" line="150" column="48" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/thrift/geocoder.thrift" timestamp="1464945918998">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="104" column="13" />
+        <mark key="]" line="104" column="12" />
+        <mark key="." line="104" column="12" />
+        <mark key="^" line="104" column="12" />
+      </file>
+      <file name="$USER_HOME$/playground/http4s/src/main/scala/HttpApp.scala" timestamp="1464632377079">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/MiuiStatsAggrJob.scala" timestamp="1465718382321">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/playground/hexo/themes/next/layout/_partials/footer.swig" timestamp="1458796770573">
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="16" column="72" />
+        <mark key="]" line="16" column="70" />
+        <mark key="^" line="16" column="70" />
+        <mark key="." line="16" column="70" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/web/database/transform.py" timestamp="1460428200867">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="147" column="16" />
+        <mark key="]" line="147" column="22" />
+        <mark key="." line="147" column="22" />
+        <mark key="^" line="147" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/controllers/Jobs.scala" timestamp="1466412449090">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="16" column="47" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduGeocode/BaiduPlaceResult.scala" timestamp="1464243514282">
+        <mark key="'" line="63" column="43" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="63" column="60" />
+        <mark key="^" line="63" column="60" />
+        <mark key="." line="63" column="60" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BeijingJob.scala" timestamp="1464361414724">
+        <mark key="'" line="40" column="65" />
+        <mark key="[" line="75" column="83" />
+        <mark key="]" line="75" column="82" />
+        <mark key="^" line="75" column="82" />
+        <mark key="." line="75" column="82" />
+      </file>
+      <file name="$USER_HOME$/playground/scala.js/index.html" timestamp="1464433549805">
+        <mark key="[" line="6" column="91" />
+        <mark key="]" line="6" column="96" />
+        <mark key="." line="6" column="96" />
+        <mark key="^" line="6" column="96" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/model/MongoModel.scala" timestamp="1464869980901">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/test/scala/com/miui/ad/cluster/DBScanTest.scala" timestamp="1461410291638">
+        <mark key="'" line="22" column="14" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/playground/play/public/javascripts/hello.js" timestamp="1464528521897">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="0" column="58" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/cluster/DBScan.scala" timestamp="1460378325314">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="75" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/scaldingJob/Utils.scala" timestamp="1461410416021">
+        <mark key="'" line="43" column="2" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BasePointFeatureIdJob.scala" timestamp="1464361546624">
+        <mark key="'" line="18" column="27" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="37" column="1" />
+        <mark key="." line="37" column="1" />
+        <mark key="^" line="5" column="64" />
+      </file>
+      <file name="$USER_HOME$/playground/ife/task_2/index.html" timestamp="1459070505207">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
+        <mark key="^" line="72" column="23" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/analysis/src/main/scala/com/miui/metok/job/UserFilter.scala" timestamp="1462859920397">
+        <mark key="'" line="30" column="20" />
+        <mark key="[" line="107" column="9" />
+        <mark key="]" line="107" column="9" />
+        <mark key="." line="107" column="9" />
+        <mark key="^" line="107" column="9" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/test/scala/com/miui/ad/lbs/util/JtsUtilsTest.scala" timestamp="1462793614992">
+        <mark key="'" line="10" column="45" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs/crawler/pom.xml" timestamp="1464256416374">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" timestamp="1464286936926">
+        <mark key="'" line="71" column="9" />
+        <mark key="[" line="101" column="26" />
+        <mark key="]" line="101" column="26" />
+        <mark key="^" line="101" column="26" />
+        <mark key="." line="101" column="26" />
+      </file>
+      <file name="$USER_HOME$/playground/play/public/javascripts/track.js" timestamp="1464670483972">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/view/blog/post_show.html" timestamp="1457701689041">
+        <mark key="'" line="35" column="24" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/test/resources/cell_coords.tsv" timestamp="1460538341946">
+        <mark key="'" line="38" column="111" />
+        <mark key="[" line="39" column="112" />
+        <mark key="]" line="39" column="111" />
+        <mark key="^" line="39" column="111" />
+        <mark key="." line="39" column="111" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/WorkPullingPattern.scala" timestamp="1464203704170">
+        <mark key="'" line="102" column="25" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/Tool.scala" timestamp="1465700348707">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/mi/anti-cheat/src/main/scala/com/xiaomi/anticheat/scalding/ScaldingJob.scala" timestamp="1464680612170">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="52" />
+        <mark key="." line="15" column="52" />
+        <mark key="^" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/movies_and_stuff/scss/styles.scss" timestamp="1457504451867">
+        <mark key="'" line="387" column="0" />
+        <mark key="[" line="160" column="4" />
+        <mark key="]" line="160" column="3" />
+        <mark key="^" line="160" column="3" />
+        <mark key="." line="160" column="3" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/test/scala/com/xiaomi/sapphire/analytics/scalding/MiuiStatsDecryptJobTest.scala" timestamp="1465701865995">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="3492" />
+        <mark key="." line="7" column="3492" />
+        <mark key="^" line="7" column="3492" />
+      </file>
+      <file name="$USER_HOME$/playground/http4s/src/main/scala/com/xiaomi/lbs/server/HttpApp.scala" timestamp="1464633799443">
+        <mark key="[" line="24" column="66" />
+        <mark key="]" line="24" column="60" />
+        <mark key="." line="24" column="60" />
+        <mark key="^" line="24" column="65" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/web/database/address.py" timestamp="1464158074598">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/geospatial/AdminRegion.scala" timestamp="1461410329342">
+        <mark key="'" line="108" column="4" />
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/ErrorHandler.scala" timestamp="1466140111760">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceModel.scala" timestamp="1466415147438">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/CrawlerService.scala" timestamp="1466011858678">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/Filters.scala" timestamp="1466154014545">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" timestamp="1466399122969">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="84" column="51" />
+        <mark key="]" line="84" column="60" />
+        <mark key="^" line="84" column="60" />
+        <mark key="." line="84" column="60" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/ScaldingJob.scala" timestamp="1464924135246">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BaseFeatureLookupJob.scala" timestamp="1464335947434">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="108" column="14" />
+        <mark key="]" line="108" column="13" />
+        <mark key="." line="108" column="13" />
+        <mark key="^" line="108" column="13" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/OsmSerializer.scala" timestamp="1463463715230">
+        <mark key="'" line="14" column="1" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduResponse.scala" timestamp="1464001709661">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="48" />
+        <mark key="^" line="69" column="48" />
+        <mark key="." line="69" column="48" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/models/JobModel.scala" timestamp="1466414264793">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/Denormalizer.scala" timestamp="1463489783427">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="28" column="103" />
+        <mark key="]" line="28" column="57" />
+        <mark key="^" line="28" column="57" />
+        <mark key="." line="28" column="57" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/scalding/FeatureImportJob.scala" timestamp="1462857712611">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/playground/hexo/source/_posts/shapeless-generic-programming-for-Scala.md" timestamp="1458797153220">
+        <mark key="'" line="278" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/swagger.yaml" timestamp="1464861543766">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="38" column="23" />
+        <mark key="^" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+      </file>
+      <file name="$USER_HOME$/playground/hexo/themes/next/source/js/src/motion.js" timestamp="1458796775060">
+        <mark key="'" line="149" column="25" />
+        <mark key="[" line="131" column="25" />
+        <mark key="]" line="131" column="26" />
+        <mark key="." line="131" column="26" />
+        <mark key="^" line="256" column="18" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/geospatial/src/test/scala/com/xiaomi/sapphire/geospatial/AdminRegionTest.scala" timestamp="1464823922988">
+        <mark key="[" line="9" column="87" />
+        <mark key="]" line="9" column="92" />
+        <mark key="." line="9" column="92" />
+        <mark key="^" line="9" column="92" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/geometry/GeometryUtils.scala" timestamp="1461573075115">
+        <mark key="'" line="166" column="2" />
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="33" />
+        <mark key="^" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/server/Rest.scala" timestamp="1464254992967">
+        <mark key="'" line="15" column="1" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduRevGeocode/BaiduRevGeocodeMaster.scala" timestamp="1464277309976">
+        <mark key="'" line="20" column="52" />
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="8" column="68" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/cluster/Dbscan.scala" timestamp="1461410307730">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/Task.scala" timestamp="1463995199212">
+        <mark key="'" line="35" column="45" />
+        <mark key="[" line="5" column="106" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/playground/http4s/src/main/scala/com/xiaomi/lbs/server/Routes.scala" timestamp="1464678262912">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/web/database/cell.py" timestamp="1464157755726">
+        <mark key="'" line="80" column="4" />
+        <mark key="[" line="41" column="45" />
+        <mark key="]" line="41" column="32" />
+        <mark key="." line="41" column="32" />
+        <mark key="^" line="41" column="32" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/analysis/src/main/scala/com/miui/metok/job/job.scala" timestamp="1462947975813">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/scaldingJob/Tool.scala" timestamp="1461410405206">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/test/scala/com/miui/ad/lbs/scaldingJob/RevGeoIndexBuildJobTest.scala" timestamp="1461642387263">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="9" column="2550" />
+        <mark key="]" line="9" column="2568" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduRevGeocode/BaiduRevGeocodeResult.scala" timestamp="1464255144712">
+        <mark key="'" line="83" column="69" />
+        <mark key="[" line="83" column="48" />
+        <mark key="]" line="83" column="69" />
+        <mark key="^" line="83" column="69" />
+        <mark key="." line="83" column="69" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/MiuiStatDecryptJob.scala" timestamp="1464924658269">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/akka/pattern/throttle/Throttler.scala" timestamp="1464066293920">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="124" column="26" />
+        <mark key="]" line="124" column="31" />
+        <mark key="." line="124" column="31" />
+        <mark key="^" line="124" column="31" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/geospatial/AdminRegion.scala" timestamp="1464822006593">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="45" column="24" />
+        <mark key="^" line="122" column="21" />
+        <mark key="." line="122" column="21" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/resources/logback.xml" timestamp="1466316799119">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="63" />
+        <mark key="^" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/AkkaExample.scala" timestamp="1463970965943">
+        <mark key="'" line="5" column="46" />
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="28" />
+        <mark key="^" line="51" column="28" />
+        <mark key="." line="51" column="28" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/geocoder/BaiduPoiFeature.scala" timestamp="1462618186800">
+        <mark key="'" line="72" column="50" />
+        <mark key="[" line="81" column="28" />
+        <mark key="]" line="81" column="44" />
+        <mark key="." line="81" column="44" />
+        <mark key="^" line="81" column="44" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/analysis/src/test/scala/com/miui/metok/job/UserFilterJobTest.scala" timestamp="1459394720426">
+        <mark key="'" line="26" column="149" />
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/geocoder/NameSpace.scala" timestamp="1462617018156">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="62" column="45" />
+        <mark key="]" line="62" column="45" />
+        <mark key="^" line="62" column="45" />
+        <mark key="." line="62" column="45" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/scalding/BasePointRevGeocodeJob.scala" timestamp="1462953441189">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="12" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceResult.scala" timestamp="1464870196269">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/lib/mongoose.js" timestamp="1456917111896">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="82" column="2" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/www/static/scss/_common.scss" timestamp="1457800232424">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="11" />
+      </file>
+      <file name="$USER_HOME$/playground/hexo/themes/next/_config.yml" timestamp="1458817361182">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="241" column="16" />
+        <mark key="]" line="241" column="16" />
+        <mark key="^" line="241" column="16" />
+        <mark key="." line="241" column="16" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/analysis/src/main/scala/com/miui/metok/job/CellBusinessJob.scala" timestamp="1461136658702">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="46" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/playground/fe/scss/style.scss" timestamp="1457424087943">
+        <mark key="'" line="57" column="30" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="20" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="20" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_lbs/nginx_dev.conf" timestamp="1456377965289">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/playground/python/sphere/sphere.py" timestamp="1462263325012">
+        <mark key="'" line="2461" column="0" />
+        <mark key="[" line="2662" column="0" />
+        <mark key="]" line="2662" column="0" />
+        <mark key="^" line="2622" column="43" />
+        <mark key="." line="2662" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/OsmJsonSerializer.scala" timestamp="1463463411956">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/pom.xml" timestamp="1464784772877">
+        <mark key="'" line="166" column="28" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="168" column="49" />
+        <mark key="^" line="179" column="50" />
+        <mark key="." line="360" column="10" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/JsonCodecOps.scala" timestamp="1466137719702">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/JobDefinitions.scala" timestamp="1463218667499">
+        <mark key="'" line="64" column="43" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="39" column="43" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/model/JobModel.scala" timestamp="1466408399510">
+        <mark key="'" line="46" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/geoindexer/OfflineRevGeoIndexer.scala" timestamp="1464144447305">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="53" column="48" />
+        <mark key="." line="9" column="49" />
+      </file>
+      <file name="$USER_HOME$/playground/play/public/javascripts/tracks.js" timestamp="1464677878604">
+        <mark key="'" line="20" column="2141" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-common/src/main/scala/com/xiaomi/lbs/common/AdminRegion.scala" timestamp="1464260264720">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="109" column="41" />
+        <mark key="]" line="109" column="42" />
+        <mark key="." line="109" column="42" />
+        <mark key="^" line="109" column="42" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/controllers/Application.scala" timestamp="1466411593084">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/mi/anti-cheat/src/main/scala/com/xiaomi/anticheat/scalding/AppStoreLogParseJob.scala" timestamp="1464935675017">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/logger/AkkaLoggingToSlf4jAdapter.scala" timestamp="1464843830486">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/geocoder/BaiduPoiFeature.scala" timestamp="1463391119159">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="93" column="66" />
+        <mark key="]" line="93" column="65" />
+        <mark key="." line="93" column="65" />
+        <mark key="^" line="93" column="65" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/worksheet.sc" timestamp="1465802539176">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/playground/react/src/components/Jobs/index.jsx" timestamp="1466304368339">
+        <mark key="'" line="47" column="53" />
+        <mark key="[" line="30" column="57" />
+        <mark key="]" line="30" column="57" />
+        <mark key="^" line="30" column="57" />
+        <mark key="." line="30" column="57" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/src/common/model/post.js" timestamp="1457801597142">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="28" column="21" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/build.sbt" timestamp="1464016471858">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BasePointBufferCellIdJob.scala" timestamp="1463043580705">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="44" column="15" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/models/slick.scala" timestamp="1466415949657">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/scalding/JobDefinitions.scala" timestamp="1462951699608">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="68" column="41" />
+        <mark key="]" line="68" column="40" />
+        <mark key="." line="68" column="40" />
+        <mark key="^" line="68" column="40" />
+      </file>
+      <file name="$USER_HOME$/playground/generator-fe/app/templates/scss/_subscribe.scss" timestamp="1457431959157">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/tracking/DeviceTrackAnalysisJob.scala" timestamp="1465970446987">
+        <mark key="'" line="31" column="47" />
+        <mark key="[" line="49" column="68" />
+        <mark key="]" line="49" column="74" />
+        <mark key="." line="49" column="74" />
+        <mark key="^" line="49" column="74" />
+      </file>
+      <file name="$USER_HOME$/playground/finch/build.sbt" timestamp="1464776116936">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/geospatial/src/main/resources/geojson/china/geometryProvince/37.json" timestamp="1466051974911">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/playground/generator-fe/app/templates/scss/style.scss" timestamp="1457504470066">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="57" column="14" />
+        <mark key="^" line="57" column="14" />
+      </file>
+      <file name="$USER_HOME$/playground/play/public/javascripts/leaflet.js" timestamp="1464674904316">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" timestamp="1466399255487">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduCrawler.scala" timestamp="1466399279117">
+        <mark key="'" line="31" column="20" />
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/src/blog/controller/post.js" timestamp="1457842253507">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="90" column="43" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/OsmObject.scala" timestamp="1463478440552">
+        <mark key="'" line="2" column="12" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="63" column="23" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BasePointCellIdJob.scala" timestamp="1464329338437">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/model/MongoModel.scala" timestamp="1464285521168">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/project/assembly.sbt" timestamp="1464824346959">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/util/StoreUtils.scala" timestamp="1461660021841">
+        <mark key="'" line="5" column="23" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="215" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/OsmDenormalizedObject.scala" timestamp="1463463701813">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduRevGeocode/BaiduRevGeocodeRequest.scala" timestamp="1466396274312">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/OsmPbfParser.scala" timestamp="1463469854831">
+        <mark key="'" line="348" column="0" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="328" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/geocoder/OnlineRevGeocoder.scala" timestamp="1464153469783">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/resources/logback.xml" timestamp="1464198891109">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="18" column="53" />
+        <mark key="]" line="18" column="53" />
+        <mark key="^" line="18" column="53" />
+        <mark key="." line="18" column="53" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/project/plugins.sbt" timestamp="1466067210951">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/s2/GeometryUtils.scala" timestamp="1464080322426">
+        <mark key="'" line="198" column="8" />
+        <mark key="[" line="208" column="24" />
+        <mark key="]" line="208" column="29" />
+        <mark key="." line="208" column="29" />
+        <mark key="^" line="208" column="29" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceRequest.scala" timestamp="1466397237941">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_lbs/src/apiv1/controller/profile.js" timestamp="1456985261382">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="50" column="29" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="50" column="29" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/OsmGeometryUtil.scala" timestamp="1463483585174">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/test/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceRequestTest.scala" timestamp="1464843612584">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="212" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BasePointRevGeocodeJob.scala" timestamp="1463128745331">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="11" column="133" />
+        <mark key="]" line="11" column="150" />
+        <mark key="." line="11" column="150" />
+        <mark key="^" line="11" column="150" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/package.scala" timestamp="1464198050268">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduRevGeocode/BaiduRevGeocodeMaster.scala" timestamp="1466396268040">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/view/blog/post_new.html" timestamp="1457848522457">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="19" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/web/db.py" timestamp="1457508094293">
+        <mark key="'" line="189" column="77" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="112" column="39" />
+        <mark key="." line="191" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/analysis/src/main/scala/com/miui/metok/job/CellAnalysisJob.scala" timestamp="1462524945459">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="78" column="77" />
+        <mark key="]" line="78" column="74" />
+        <mark key="^" line="78" column="74" />
+        <mark key="." line="78" column="74" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/crawler/src/main/resources/logback.xml" timestamp="1464782017619">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/test/scala/com/miui/ad/sparkJob/CellLocationJobTest.scala" timestamp="1461410385965">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/common/package.scala" timestamp="1461410317361">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/package.scala" timestamp="1462947417875">
+        <mark key="'" line="0" column="18" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="38" />
+        <mark key="." line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/package.scala" timestamp="1464851443816">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/geospatial/BusinessDistrict.scala" timestamp="1461410345602">
+        <mark key="'" line="45" column="30" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/playground/fe/templates/banner.html" timestamp="1457417727711">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/WifiJobDefinitions.scala" timestamp="1464358987019">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="99" column="3" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/geospatial/CompGeom.scala" timestamp="1461410370585">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/geospatial/Distance.scala" timestamp="1462794954983">
+        <mark key="'" line="27" column="11" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="29" column="39" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/scalding/BaseRevGeoIndexBuildJob.scala" timestamp="1462936405386">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/scalding/BaseRevGeocodeJob.scala" timestamp="1462948767030">
+        <mark key="'" line="59" column="37" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="45" column="67" />
+        <mark key="^" line="45" column="67" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_lbs/src/apiv1/controller/user_address.js" timestamp="1456983990771">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/DeviceTrackAnalysisJob.scala" timestamp="1465804226044">
+        <mark key="'" line="54" column="33" />
+        <mark key="[" line="61" column="14" />
+        <mark key="]" line="61" column="42" />
+        <mark key="." line="61" column="42" />
+        <mark key="^" line="61" column="42" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/MiuiStatsDecryptJob.scala" timestamp="1465811692110">
+        <mark key="'" line="76" column="2" />
+        <mark key="[" line="170" column="58" />
+        <mark key="]" line="170" column="61" />
+        <mark key="." line="170" column="61" />
+        <mark key="^" line="170" column="61" />
+      </file>
+      <file name="$USER_HOME$/playground/scala.js/src/main/scala/tutorial/webapp/TutorialApp.scala" timestamp="1464433563404">
+        <mark key="'" line="21" column="1" />
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="42" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BasePointBufferFeatureIdJob.scala" timestamp="1463057431015">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="13" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/build.sbt" timestamp="1464783312879">
+        <mark key="'" line="35" column="43" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/playground/scala.js/build.sbt" timestamp="1464433431721">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/playground/play/app/views/leaflet.scala.html" timestamp="1464671703009">
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="15" column="78" />
+        <mark key="." line="15" column="78" />
+        <mark key="^" line="15" column="78" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/geospatial/BusinessDistrict.scala" timestamp="1463643297645">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="123" column="44" />
+        <mark key="]" line="123" column="33" />
+        <mark key="." line="123" column="33" />
+        <mark key="^" line="123" column="33" />
+      </file>
+      <file name="$USER_HOME$/playground/play/app/controllers/ChartsController.scala" timestamp="1464527830400">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/playground/play/app/controllers/LeafletController.scala" timestamp="1464540750382">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/common/src/main/scala/com/xiaomi/sapphire/common/logging.scala" timestamp="1464854775129">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/BeijingJobDefinitions.scala" timestamp="1464676149663">
+        <mark key="'" line="104" column="70" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="141" column="11" />
+        <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_lbs/nginx.conf" timestamp="1456377941522">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/playground/http4s/build.sbt" timestamp="1464632857639">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/analysis/src/test/scala/com/miui/metok/job/UserDailyJobTest.scala" timestamp="1461641092132">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/scalding/CellSpatialStatsJob.scala" timestamp="1462796373423">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/view/blog/post_edit.html" timestamp="1457848530466">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="30" />
+      </file>
+      <file name="$USER_HOME$/playground/generator-fe/app/templates/gulpfile.js" timestamp="1457501286938">
+        <mark key="'" line="83" column="38" />
+        <mark key="[" line="74" column="36" />
+        <mark key="]" line="74" column="38" />
+        <mark key="." line="74" column="38" />
+        <mark key="^" line="74" column="38" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/sparkJob/CellLocation.scala" timestamp="1461410298473">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/osm/OsmDenormalizedGeoJSONBijections.scala" timestamp="1463482890464">
+        <mark key="'" line="77" column="45" />
+        <mark key="[" line="89" column="26" />
+        <mark key="]" line="89" column="27" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="89" column="27" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/feature/admin/ChinaAdminFeature.scala" timestamp="1463634500032">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="8" column="58" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduAPI.scala" timestamp="1464213232999">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/playground/hexo/themes/next/layout/_macro/post.swig" timestamp="1458817545230">
+        <mark key="'" line="212" column="22" />
+        <mark key="[" line="89" column="101" />
+        <mark key="]" line="89" column="101" />
+        <mark key="^" line="89" column="101" />
+        <mark key="." line="89" column="101" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduGeocode/BaiduPlaceResult.scala" timestamp="1464317439371">
+        <mark key="'" line="41" column="3" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="66" column="49" />
+        <mark key="." line="66" column="49" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/xiaomi/lbs/scalding/CommonJobDefinitions.scala" timestamp="1464349647947">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="40" column="47" />
+        <mark key="]" line="40" column="44" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="40" column="44" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/model/BaseMongo.scala" timestamp="1464212043843">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/geospatial/Projection.scala" timestamp="1461410354704">
+        <mark key="'" line="25" column="11" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/mi/metok_analytics/analysis/src/main/scala/com/miui/metok/job/Utils.scala" timestamp="1464925687098">
+        <mark key="'" line="49" column="37" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="55" column="2" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="53" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduGeocode/BaiduPlaceModel.scala" timestamp="1464212948611">
+        <mark key="'" line="11" column="10" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/geospatial/src/main/scala/com/xiaomi/sapphire/geospatial/.worksheet.sc" timestamp="1466055705257">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/ResponseEncoders.scala" timestamp="1466138285070">
+        <mark key="[" line="4" column="79" />
+        <mark key="]" line="4" column="51" />
+        <mark key="." line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+      </file>
+      <file name="$USER_HOME$/playground/blog/src/blog/controller/base.js" timestamp="1457802907196">
+        <mark key="'" line="19" column="20" />
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="34" />
+        <mark key="." line="78" column="34" />
+        <mark key="^" line="78" column="34" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/models/slick/slick.scala" timestamp="1466415979532">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-analysis/src/main/scala/com/miui/ad/lbs/sparkJob/CellLocation.scala" timestamp="1462267617818">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="59" column="22" />
+        <mark key="^" line="59" column="22" />
+        <mark key="." line="59" column="22" />
+      </file>
+      <file name="$USER_HOME$/playground/http4s/src/main/resources/logback.xml" timestamp="1464633925858">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduAPI.scala" timestamp="1464277639500">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="17" />
+        <mark key="." line="43" column="17" />
+        <mark key="^" line="43" column="17" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/resources/application.conf" timestamp="1464870635415">
+        <mark key="'" line="397" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/SwaggerService.scala" timestamp="1466011836120">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/mi/sapphire/analytics/src/main/scala/com/xiaomi/sapphire/analytics/scalding/tracking/MiuiStatsDecryptJob.scala" timestamp="1465971611684">
+        <mark key="'" line="104" column="59" />
+        <mark key="[" line="104" column="12" />
+        <mark key="]" line="104" column="59" />
+        <mark key="^" line="104" column="59" />
+        <mark key="." line="104" column="59" />
+      </file>
+      <file name="$USER_HOME$/mi/anti-cheat/src/main/scala/com/xiaomi/anticheat/parse/LogParser.scala" timestamp="1464097764912">
+        <mark key="'" line="31" column="5" />
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-framework/lbs-crawler/src/main/scala/com/xiaomi/lbs/crawler/baidu/BaiduGeocode/BaiduPlaceModel.scala" timestamp="1464285523625">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/mi/lbs-crawler/pom.xml" timestamp="1464255416943">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="68" column="36" />
+        <mark key="." line="68" column="36" />
+        <mark key="^" line="68" column="36" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="26" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/Main.scala" />
+      <jump line="5" column="13" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="62" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="141" column="0" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="29" column="17" filename="$USER_HOME$/playground/react/package.json" />
+      <jump line="36" column="35" filename="$USER_HOME$/playground/react/src/components/Jobs/index.jsx" />
+      <jump line="46" column="0" filename="$USER_HOME$/playground/react/src/components/Jobs/index.jsx" />
+      <jump line="47" column="53" filename="$USER_HOME$/playground/react/src/components/Jobs/index.jsx" />
+      <jump line="42" column="12" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="57" column="4" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="65" column="21" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="57" column="2" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="42" column="32" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="13" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="90" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="18" column="13" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="47" column="40" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="25" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="11" column="22" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="96" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="59" column="2" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="32" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduAPI.scala" />
+      <jump line="24" column="20" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduCrawler.scala" />
+      <jump line="61" column="21" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="61" column="21" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="110" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="49" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduAPI.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="105" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="23" column="2" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="71" column="48" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="83" column="65" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="58" column="9" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="64" column="26" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="65" column="48" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="86" column="10" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="14" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="36" column="34" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="85" column="73" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="91" column="41" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="29" column="30" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="70" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="22" column="28" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="35" column="25" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="92" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="49" column="34" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="100" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="36" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="46" column="18" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="18" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="117" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="104" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="24" column="2" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="103" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="51" column="24" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="26" column="14" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/http/HttpClient.scala" />
+      <jump line="63" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/http/HttpClient.scala" />
+      <jump line="13" column="12" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/http/HttpClient.scala" />
+      <jump line="77" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/http/HttpClient.scala" />
+      <jump line="92" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="36" column="25" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="87" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="101" column="16" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="90" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="35" column="41" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="89" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="34" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="60" column="24" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="84" column="60" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="115" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/WorkPullingPattern.scala" />
+      <jump line="19" column="17" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="113" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceMaster.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="81" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="46" column="16" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/model/JobModel.scala" />
+      <jump line="144" column="31" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="56" column="16" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="15" column="0" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="156" column="0" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="18" column="0" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="5" column="0" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="126" column="18" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="0" column="0" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="58" column="32" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="154" column="0" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="107" column="9" filename="$USER_HOME$/mi/sapphire/build.sbt" />
+      <jump line="35" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="93" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="38" column="0" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="17" column="22" filename="$USER_HOME$/mi/sapphire/server/src/main/scala/com/xiaomi/sapphire/server/api/v1/Jobs.scala" />
+      <jump line="33" column="11" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceModel.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/mi/sapphire/crawler/src/main/scala/com/xiaomi/sapphire/crawler/baidu/BaiduGeocode/BaiduPlaceModel.scala" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWYgbmFtZSA9IGNvbHVtbltTdHJpbmddKCJOQU1FIikK</text>
+      </register>
+      <register name="d" type="2">
+        <text encoding="base64">Y2xhc3MgVXNlclNwYWNlVGltZUZpbHRlckpvYlRlc3QgZXh0ZW5kcyBGbGF0U3BlYyB3aXRoIEZpZWxkQ29udmVyc2lvbnMgewp9Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text>get</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgbmFtZSA9IGNvbHVtbltTdHJpbmddKCJOQU1FIikK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHNsaWNrLmxpZnRlZC5UYWcK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHNsaWNrLm1vZGVsLlRhYmxlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>get</last-search>
+      <last-offset />
+      <last-pattern>get</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>routes</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry>stat</entry>
+        <entry encoding="base64">XDxtYWtlXD4=</entry>
+        <entry>log4j</entry>
+        <entry>cell</entry>
+        <entry encoding="base64">XDx1dWlkXD4=</entry>
+        <entry encoding="base64">XDx3b3JrXD4=</entry>
+        <entry encoding="base64">XDxkdXJhdGlvblw+</entry>
+        <entry>get</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

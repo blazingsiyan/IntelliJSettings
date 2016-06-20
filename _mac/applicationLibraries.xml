@@ -1,0 +1,133 @@
+<application>
+  <component name="libraryTable">
+    <library name="mocha-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.6.9 virtualenv at ~/.virtualenvs/metok2.6 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/.virtualenvs/airport interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/.virtualenvs/pmp interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/.virtualenvs/python2.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/.virtualenvs/scipy interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/.virtualenvs/scrapy interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 3.5.0 virtualenv at ~/.virtualenvs/python3.5 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/python3.5/lib/python3.5" />
+        <root url="file://$USER_HOME$/.virtualenvs/python3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.virtualenvs/python3.5/lib/python3.5/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.virtualenvs/python3.5/lib/python3.5/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/354251488" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/python3.5/lib/python3.5" />
+        <root url="file://$USER_HOME$/.virtualenvs/python3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.virtualenvs/python3.5/lib/python3.5/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.virtualenvs/python3.5/lib/python3.5/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/354251488" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.10.2">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-actors-migration.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-actors.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-reflect.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-swing.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/scala-2.10.2/src/scala-actors-src.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/src/scala-library-src.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/src/scala-reflect-src.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/src/scala-swing-src.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.10.2 (2)" type="Scala">
+      <properties>
+        <option name="languageLevel" value="Scala_2_10" />
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/scala-2.10.2/lib/scala-compiler.jar" />
+          <root url="file://$USER_HOME$/scala-2.10.2/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/scala-2.10.2/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-actors-migration.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-actors.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-reflect.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/lib/scala-swing.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/scala-2.10.2/src/scala-actors-src.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/src/scala-library-src.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/src/scala-reflect-src.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.10.2/src/scala-swing-src.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/scala-2.11.8/lib/scala-compiler.jar" />
+          <root url="file://$USER_HOME$/scala-2.11.8/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/scala-2.11.8/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/scala-2.11.8/lib/scala-actors-2.11.0.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.11.8/lib/scala-actors-migration_2.11-1.1.0.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.11.8/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.11.8/lib/scala-parser-combinators_2.11-1.0.4.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.11.8/lib/scala-reflect.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.11.8/lib/scala-swing_2.11-1.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/scala-2.11.8/lib/scala-xml_2.11-1.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.11.8/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>

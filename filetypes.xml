@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="hjs" type="HTML" />
+      <mapping ext="swig" type="HTML" />
+      <mapping ext="ejs" type="HTML" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="CellBusinessJobTest.scala" type="PLAIN_TEXT" />
+      <mapping pattern="intel535" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="TransformJoinJob" type="PLAIN_TEXT" />
+      <mapping pattern="bdlist" type="PLAIN_TEXT" />
+      <mapping pattern="location_data" type="PLAIN_TEXT" />
+      <mapping pattern="cell_data" type="PLAIN_TEXT" />
+      <mapping pattern="geometry.py" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="org" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="python" type="PLAIN_TEXT" />
+      <mapping ext="template" type="Perl" />
+      <mapping pattern="*.pp.template" type="Puppet" />
+    </extensionMap>
+  </component>
+</application>
