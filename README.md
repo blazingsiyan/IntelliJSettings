@@ -1,0 +1,2 @@
+# IntelliJSettings
+IntelliJ Settings Repository
